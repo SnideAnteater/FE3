@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FE3.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Akmal\Documents\FE3 Unreal\FE3\FE3\Intermediate\Build\Win64\FE3Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Akmal\Documents\FE3 Unreal\FE3\FE3\Intermediate\Build\Win64\UE4Editor\Development\FE3\FE3.cpp.obj"
+"D:\Akmal\Documents\FE3 Unreal\FE3\FE3\Intermediate\Build\Win64\UE4Editor\Development\FE3\FE3Character.cpp.obj"
+"D:\Akmal\Documents\FE3 Unreal\FE3\FE3\Intermediate\Build\Win64\UE4Editor\Development\FE3\FE3GameMode.cpp.obj"
+"D:\Akmal\Documents\FE3 Unreal\FE3\FE3\Intermediate\Build\Win64\UE4Editor\Development\FE3\FE3.init.gen.cpp.obj"
+"D:\Akmal\Documents\FE3 Unreal\FE3\FE3\Intermediate\Build\Win64\UE4Editor\Development\FE3\FE3Character.gen.cpp.obj"
+"D:\Akmal\Documents\FE3 Unreal\FE3\FE3\Intermediate\Build\Win64\UE4Editor\Development\FE3\FE3GameMode.gen.cpp.obj"
+"D:\Akmal\Documents\FE3 Unreal\FE3\FE3\Intermediate\Build\Win64\UE4Editor\Development\FE3\Default.rc2.res"
+/OUT:"D:\Akmal\Documents\FE3 Unreal\FE3\FE3\Intermediate\Build\Win64\UE4Editor\Development\FE3\UE4Editor-FE3.lib"
+/INCLUDE:IMPLEMENT_MODULE_FE3

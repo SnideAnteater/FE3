@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FE3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{77D88FDC-99AC-40D7-AAA5-BBBB5C38A0EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FE3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FE3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A08C15C4-9AF3-4B2A-9DF5-5D611DEE7D79}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FE3">
+      <UniqueIdentifier>{46BE197C-D431-4C2C-93B5-2EBA2D91CAD3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FE3\FE3.Build.cs">
+      <Filter>Source\FE3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FE3\FE3.cpp">
+      <Filter>Source\FE3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FE3\FE3.h">
+      <Filter>Source\FE3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FE3\FE3Character.cpp">
+      <Filter>Source\FE3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FE3\FE3Character.h">
+      <Filter>Source\FE3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FE3\FE3GameMode.cpp">
+      <Filter>Source\FE3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FE3\FE3GameMode.h">
+      <Filter>Source\FE3</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
